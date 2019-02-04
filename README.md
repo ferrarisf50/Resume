@@ -1,3 +1,3 @@
 ### Resume
 
-[Resume](https://ferrarisf50.github.io/Resume/master/resume.pdf)
+[Resume](https://ferrarisf50.github.io/Resume/resume.pdf)
